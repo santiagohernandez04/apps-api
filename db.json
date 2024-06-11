@@ -1,0 +1,27 @@
+[
+  {
+    "nombre": "Gmail",
+    "link": "https://mail.google.com/",
+    "status": "activo"
+  },
+  {
+    "nombre": "Twitter",
+    "link": "https://twitter.com/",
+    "status": "activo"
+  },
+  {
+    "nombre": "LinkedIn",
+    "link": "https://www.linkedin.com/",
+    "status": "activo"
+  },
+  {
+    "nombre": "Dropbox",
+    "link": "https://www.dropbox.com/",
+    "status": "activo"
+  },
+  {
+    "nombre": "Trello",
+    "link": "https://trello.com/",
+    "status": "inactivo"
+  }
+]
