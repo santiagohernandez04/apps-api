@@ -1,52 +1,54 @@
-[
-  {
-    "name": "Facebook",
-    "link": "https://www.facebook.com",
-    "status": "Active"
-  },
-  {
-    "name": "Twitter",
-    "link": "https://twitter.com",
-    "status": "Active"
-  },
-  {
-    "name": "Instagram",
-    "link": "https://www.instagram.com",
-    "status": "Inactive"
-  },
-  {
-    "name": "LinkedIn",
-    "link": "https://www.linkedin.com",
-    "status": "Inactive"
-  },
-  {
-    "name": "YouTube",
-    "link": "https://www.youtube.com",
-    "status": "Inactive"
-  },
-  {
-    "name": "Reddit",
-    "link": "https://www.reddit.com",
-    "status": "Active"
-  },
-  {
-    "name": "GitHub",
-    "link": "https://github.com",
-    "status": "Inactive"
-  },
-  {
-    "name": "Google",
-    "link": "https://www.google.com",
-    "status": "Active"
-  },
-  {
-    "name": "Amazon",
-    "link": "https://www.amazon.com",
-    "status": "Inactive"
-  },
-  {
-    "name": "Netflix",
-    "link": "https://www.netflix.com",
-    "status": "Active"
-  }
-]
+{
+  "program": [
+    {
+      "name": "Facebook",
+      "link": "https://www.facebook.com",
+      "status": "Active"
+    },
+    {
+      "name": "Twitter",
+      "link": "https://twitter.com",
+      "status": "Active"
+    },
+    {
+      "name": "Instagram",
+      "link": "https://www.instagram.com",
+      "status": "Inactive"
+    },
+    {
+      "name": "LinkedIn",
+      "link": "https://www.linkedin.com",
+      "status": "Inactive"
+    },
+    {
+      "name": "YouTube",
+      "link": "https://www.youtube.com",
+      "status": "Inactive"
+    },
+    {
+      "name": "Reddit",
+      "link": "https://www.reddit.com",
+      "status": "Active"
+    },
+    {
+      "name": "GitHub",
+      "link": "https://github.com",
+      "status": "Inactive"
+    },
+    {
+      "name": "Google",
+      "link": "https://www.google.com",
+      "status": "Active"
+    },
+    {
+      "name": "Amazon",
+      "link": "https://www.amazon.com",
+      "status": "Inactive"
+    },
+    {
+      "name": "Netflix",
+      "link": "https://www.netflix.com",
+      "status": "Active"
+    }
+  ]
+}
