@@ -1,27 +1,52 @@
 [
   {
-    "nombre": "Gmail",
-    "link": "https://mail.google.com/",
-    "status": "activo"
+    "name": "Facebook",
+    "link": "https://www.facebook.com",
+    "status": "Active"
   },
   {
-    "nombre": "Twitter",
-    "link": "https://twitter.com/",
-    "status": "activo"
+    "name": "Twitter",
+    "link": "https://twitter.com",
+    "status": "Active"
   },
   {
-    "nombre": "LinkedIn",
-    "link": "https://www.linkedin.com/",
-    "status": "activo"
+    "name": "Instagram",
+    "link": "https://www.instagram.com",
+    "status": "Inactive"
   },
   {
-    "nombre": "Dropbox",
-    "link": "https://www.dropbox.com/",
-    "status": "activo"
+    "name": "LinkedIn",
+    "link": "https://www.linkedin.com",
+    "status": "Inactive"
   },
   {
-    "nombre": "Trello",
-    "link": "https://trello.com/",
-    "status": "inactivo"
+    "name": "YouTube",
+    "link": "https://www.youtube.com",
+    "status": "Inactive"
+  },
+  {
+    "name": "Reddit",
+    "link": "https://www.reddit.com",
+    "status": "Active"
+  },
+  {
+    "name": "GitHub",
+    "link": "https://github.com",
+    "status": "Inactive"
+  },
+  {
+    "name": "Google",
+    "link": "https://www.google.com",
+    "status": "Active"
+  },
+  {
+    "name": "Amazon",
+    "link": "https://www.amazon.com",
+    "status": "Inactive"
+  },
+  {
+    "name": "Netflix",
+    "link": "https://www.netflix.com",
+    "status": "Active"
   }
 ]
